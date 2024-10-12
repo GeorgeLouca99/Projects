@@ -1,0 +1,12 @@
+Password Cracking Simulation
+
+Objective: Simulate the procesxs of password cracking using common techniques like brute-force and dictionary attacks.
+
+Language: Python
+
+Key features:
+
+- Simulate the brute force attack by generating all possible character combinations
+- Simulate the dictionary attack using a predifined wordlist.
+- Include password hashing to simulate how passwords are stored securely.
+- Compare the performance of different password cracking techniques.
